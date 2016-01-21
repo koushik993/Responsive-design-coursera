@@ -1,0 +1,5 @@
+#Week -4
+
+This week's project was to build a resposive page with HTML and CSS and add interactivity to it with Javascript. 
+The project that I have done is a simple page that dislays images of a lion at the click of a button. Bootstrap libraby has been used to style the page and make it responsive.
+Make sure to add the libarbry path accordingly in the index.html file.
